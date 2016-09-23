@@ -11,7 +11,13 @@
 			price: 2,
 			description: 'Some gems have hidden qualities beyond their luster. The Dodecahedron will 100% of the time reflect light into your eyes.',
 			canPurchase: true,
-			soldOut: true
+			soldOut: true,
+			images: [
+				{
+					full: 'images/dodecahedron-01-full.jpg',
+					thumb: 'images/dodecahedron-01-thumb.jpg'
+				}
+			]
 		},
 		{
 			name: 'Pentagonal Gem',
